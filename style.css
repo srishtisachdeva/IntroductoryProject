@@ -1,0 +1,24 @@
+body{
+   background-image:url(welcome_pic.jpg);
+   background-size:cover;
+   opacity:0.7;
+   }
+.welcome{
+   color:blue;
+   margin-left:250px;
+   float:top;
+   }
+
+.text{
+   color:purple;
+   margin-left:230px;
+   margin-top:60px;
+   }
+    
+.details{
+    margin-left:300px;
+    margin-top:40px
+    }
+a.hover{
+    color:red;
+    }
